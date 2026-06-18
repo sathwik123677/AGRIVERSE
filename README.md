@@ -1,5 +1,4 @@
-# AGRIVERSE2.0
-AgriVerse is an innovative agricultural management system designed to assist farmers in Optimising Crop Yield
+
 # 🌾 AGRIVERSE 2.0
 AgriVerse is an innovative agricultural management system designed to assist farmers in optimizing crop yield through data-driven insights and machine learning. The platform provides intelligent crop recommendations, yield prediction, and crop-specific information to help farmers make informed agricultural decisions.
 ##  Features
