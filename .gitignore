@@ -1,0 +1,22 @@
+# Node dependencies
+FrontEnd/node_modules/
+
+# Python virtual environment
+Backend/.venv/
+
+# Logs
+*.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Vite build output
+FrontEnd/dist/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.vscode/
